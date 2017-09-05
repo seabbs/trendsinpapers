@@ -1,0 +1,31 @@
+---
+title: "Tuberculosis modelling papers over time"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r packages, eval = FALSE}
+library(tidyverse)
+library(plotly)
+library(visdat)
+```
+
+
+Cleaning variables:
+- date contains no additonal information over year
+- convert variables from a list that only have a single row per entry
+- drop additional entries for abstract and convert to variable n
+
+```{r clean-tb-models, eval = FALSE}
+tb_models <- tb_models %>% 
+  select(-date) %>% 
+  mutate_at(.vars = vars(ris.type, type, id, title.primary, year), .funs = funs(unlist)) %>% 
+    mutate(abstract = abstract %>% first)
+```
+
+```{r visualise-model-data, eval = FALSE}
+vis_dat(tb_models)
+```
