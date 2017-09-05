@@ -1,0 +1,19 @@
+Package: trendsinpapers
+Type: Package
+Title: Loads, Cleans and Analyses .RES Files of Academic Publications
+Version: 0.1.0
+Authors@R: person("Sam", "Abbott", email = "contact@samabbott.co.uk", role = c("aut", "cre"))
+Description: Cleans and munges a .RES file of academic papers. Using this standard  format, simple analysis functions
+        allow trends in publications over time to be investigated, and the relationships between authors are visualised. A literature review
+        of dynamic TB models is used as an example.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: testthat,
+          knitr
+RoxygenNote: 6.0.1
+Roxygen: list(markdown = TRUE)
+URL: http://www.samabbott.co.uk/trendsinpapers,
+        https://github.com/seabbs/trendsinpapers
+BugReports: https://github.com/seabbs/trendsinpapers/issues
+VignetteBuilder: knitr
