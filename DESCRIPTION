@@ -9,9 +9,6 @@ Description: Cleans and munges a .RES file of academic papers. Using this standa
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-Suggests: testthat,
-          knitr,
-    rmarkdown
 RoxygenNote: 6.0.1
 Roxygen: list(markdown = TRUE)
 URL: http://www.samabbott.co.uk/trendsinpapers,
@@ -21,11 +18,14 @@ VignetteBuilder: knitr
 Imports: tidyverse,
     plotly,
     visdat,
-    zeallot,
     lubridate,
     dplyr,
     magrittr,
     purrr,
     tibble,
     tidyr
+Suggests: testthat,
+          knitr,
+          rmarkdown,
+          zeallot
 Remotes: nteetor/zeallot

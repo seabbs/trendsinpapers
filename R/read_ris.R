@@ -4,7 +4,8 @@
 #' @description This function reads in a .ris file of academic papers and then
 #'              munges the output into 3 tidy interlinked data frames.
 #' @inherit read_ris_internal
-#'
+#' @param categorical_variables A character string of variables that are considered truely categorical and
+#'         therefore will be factorised. Defaults to ris_type, type and journal.
 #' @return 3 tidy data frames: papers, authors, authors_on_papers. Each paper has a unique id (paper_id),
 #'         as does each paper (paper_id). Authors and papers are linked by authors_on_papers which links
 #'         paper_id, and author_id.
@@ -14,9 +15,11 @@
 #' @importFrom dplyr rename mutate select full_join ungroup rowwise mutate_all mutate_at
 #' @importFrom tibble as_data_frame tibble
 #' @importFrom tidyr unnest
+#' @importFrom stringr str_split
+#' @importFrom lubridate ymd
 #' @examples
 #'
-read_ris <- function(file, ...) {
+read_ris <- function(file, categorical_variables = c("ris_type", "type", "journal"), ...) {
 
   ## Read in res file in messy format
   messy_papers <- read_ris_internal(file)
@@ -96,6 +99,17 @@ read_ris <- function(file, ...) {
   papers <- messy_papers %>%
     mutate_at(.vars = vars(ris.type, type, paper_id, title, journal, volume, pages, abstract),
               .funs = funs(unlist(., recursive = FALSE)))
+
+  ## Rename variables
+  papers <- papers %>%
+    rename(ris_type = ris.type)
+
+  ## Factorise true categorical variables
+  if (!is.null(categorical_variables)) {
+    papers <- papers %>%
+      mutate_at(.vars = categorical_variables, .funs = funs(factor(.)))
+  }
+
 
   out <- list(papers, authors, authors_on_papers)
   names(out) <- c("papers", "authors", "authors_on_papers")

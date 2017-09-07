@@ -1,0 +1,1140 @@
+author,author_id
+"Frost, W. H.",1
+"Feldmann, F. M.",2
+"Sutherland, I",3
+"Waaler, H.",4
+"Geser, A.",5
+"Andersen, S.",6
+"Subramaniam, M.",7
+"Brogger, S.",8
+"Ferebee, S. H.",9
+"Juchniewicz, M.",10
+"Olakowski, T.",11
+"Mardon, K.",12
+"ReVelle, C. S.",13
+"Lynn, W. R.",14
+"Feldmann, F.",15
+"Waaler, H. T.",16
+NA,17
+"Styblo, K.",18
+"Meijer, J.",19
+"Sutherland, I.",20
+"Piot, M. A.",21
+"Revelle, C.",22
+"Male, J.",23
+"Chorba, R.W.",24
+"Sanders, JL",25
+"Endo, S.",26
+"Aoki, K.",27
+"Horwitz, O.",28
+"Lotte, A.",29
+"Uzan, J.",30
+"Rusu, G",31
+"de Ville de Goyet, C.",32
+"Rouillon, A.",33
+"Gothi, G. D.",34
+"Baily, G. V.",35
+"Nair, S. S.",36
+"Azuma, Y.",37
+"Rust, P.",38
+"Thomas, J.",39
+"Fayers, P. M.",40
+"Galtung, O.",41
+"Mordal, K.",42
+"Chen, M. M.",43
+"Bush, J. W.",44
+"Rajalalkshmi, R.",45
+"Svandova, E.",46
+"Radhakrishna, S.",47
+"Stevens, R. G.",48
+"Lee, J. A. H.",49
+"Sivaraman, V.",50
+"Umasankar, V.",51
+"McNeil, B. J.",52
+"Thompson, M.",53
+"Adelstein, S. J.",54
+"Collins, J. J.",55
+"Snider, D. E., Jr.",56
+"Caras, G. J.",57
+"Koplan, J. P.",58
+"Schulzer, M.",59
+"Enarson, D. A.",60
+"Grzybowski, S.",61
+"Hong, Y. P.",62
+"Kim, S. J.",63
+"Lin, T. P.",64
+"Lee, H. L.",65
+"Pierskalla, W. P.",66
+"McGrath, J. W.",67
+"Rose, D. N.",68
+"Schechter, C. B.",69
+"Fahs, M. C.",70
+"Silver, A. L.",71
+"Acocella, G.",72
+"Comaschi, E.",73
+"Nonis, A.",74
+"Rossanigo, C.",75
+"Migliori, G. B.",76
+"Joesoef, M. R.",77
+"Remington, P. L.",78
+"Jiptoherijanto, P. T.",79
+"Fitzgerald, J. M.",80
+"Gafni, A.",81
+"Nagelkerke, N. J.",82
+"Plummer, F. A.",83
+"Holton, D.",84
+"Anzala, A. O.",85
+"Manji, F.",86
+"Ngugi, E. N.",87
+"Moses, S.",88
+"Balasangameshwara, V. H.",89
+"Chakraborty, A. K.",90
+"Chaudhuri, K.",91
+"Bermejo, A.",92
+"Veeken, H.",93
+"Berra, A.",94
+"Bloom, B. R.",95
+"Murray, C. J.",96
+"Heymann, S. J.",97
+"Massad, Eduardo",98
+"Burattini, Marcelo Nascimento",99
+"Coutinho, Francisco Antonio Bezerra",100
+"Yang, Hyung Mo",101
+"Raimundo, Silvia Martorano",102
+"Nettleman, M. D.",103
+"de Jonghe, E.",104
+"Chum, H. J.",105
+"Nyangulu, D. S.",106
+"Salomao, A.",107
+"Dolin, P. J.",108
+"Raviglione, M. C.",109
+"Kochi, A.",110
+"Nicas, M.",111
+"Radhamani, M. P.",112
+"Mak, E.",113
+"Blower, S. M.",114
+"McLean, A. R.",115
+"Porco, T. C.",116
+"Small, P. M.",117
+"Hopewell, P. C.",118
+"Sanchez, M. A.",119
+"Moss, A. R.",120
+"Masobe, P.",121
+"Lee, T.",122
+"Price, M.",123
+"Mohle-Boetani, J. C.",124
+"Miller, B.",125
+"Halpern, M.",126
+"Trivedi, A.",127
+"Lessler, J.",128
+"Solomon, S. L.",129
+"Fenstersheib, M.",130
+"Rieder, H. L.",131
+"Antia, R.",132
+"Koella, J. C.",133
+"Perrot, V.",134
+"Brewer, T. F.",135
+"Colditz, G. A.",136
+"Wilson, M. E.",137
+"Auerbach, K.",138
+"Kane, D.",139
+"Fineberg, H. V.",140
+"Moore, R. D.",141
+"Chaulk, C. P.",142
+"Griffiths, R.",143
+"Cavalcante, S.",144
+"Chaisson, R. E.",145
+"Burman, W. J.",146
+"Dalton, C. B.",147
+"Cohn, D. L.",148
+"Butler, J. R.",149
+"Reves, R. R.",150
+"Castillo-Chavez, C.",151
+"Feng, Z.",152
+"Foster, S.",153
+"Godfrey-Faussett, P.",154
+"Porter, J.",155
+"Gammaitoni, L.",156
+"Nucci, M. C.",157
+"Garcia, A.",158
+"Maccario, J.",159
+"Richardson, S.",160
+"Ettling, M.",161
+"Lietman, T.",162
+"Porco, T.",163
+"Blower, S.",164
+"Marcus, Alexander M.",165
+"Rose, David N.",166
+"Sacks, Henry S.",167
+"Schechter, Clyde B.",168
+"Geerdes, H.",169
+"Roy, M. C.",170
+"Salpeter, S. R.",171
+"Sanders, G. D.",172
+"Salpeter, E. E.",173
+"Owens, D. K.",174
+"Smith, P. J.",175
+"Thompson, T. J.",176
+"Jereb, J. A.",177
+"Vynnycky, E.",178
+"Fine, P. E.",179
+"West, R. W.",180
+"Thompson, J. R.",181
+"Gerberding, J. L.",182
+"Dye, C.",183
+"Garnett, G. P.",184
+"Sleeman, K.",185
+"Williams, B. G.",186
+"Fennelly, K. P.",187
+"Nardell, E. A.",188
+"Lipsitch, M.",189
+"Levin, B. R.",190
+"Salomon, J. A.",191
+"Palmer, C. S.",192
+"Halpern, M. T.",193
+"Geiter, L. J.",194
+"Roos, B. R.",195
+"van Cleeff, M. R.",196
+"Githui, W. A.",197
+"Kivihya-Ndugga, L.",198
+"Odhiambo, J. A.",199
+"Kibuga, D. K.",200
+"Klatser, P. R.",201
+"Sawert, H.",202
+"Girardi, E.",203
+"Antonucci, G.",204
+"Viale, P.",205
+"Ippolito, G.",206
+"Bell, J. C.",207
+"Sacks, H. S.",208
+"Glynn, J. R.",209
+"Kirschner, D.",210
+"Marchand, R.",211
+"Tousignant, P.",212
+"Chang, H.",213
+"Pathania, V. S.",214
+"Trnka, L.",215
+"Krejbich, F.",216
+"Snyder, D. C.",217
+"Chin, D. P.",218
+"Paz, E. A.",219
+"Fallstad, R.",220
+"Black, R. L.",221
+"Yew, W. W.",222
+"Aparicio, J. P.",223
+"Capurro, A. F.",224
+"Friedman, M.",225
+"Dunning, R.",226
+"Dasgupta, K.",227
+"Schwartzman, K.",228
+"Tennenbaum, T. N.",229
+"Brassard, P.",230
+"Menzies, D.",231
+"Davidow, A. L.",232
+"Alcabes, P.",233
+"Marmor, M.",234
+"Debanne, S. M.",235
+"Bielefeld, R. A.",236
+"Cauthen, G. M.",237
+"Daniel, T. M.",238
+"Rowland, D. Y.",239
+"Fengzeng, Z.",240
+"Scheele, S.",241
+"Williams, B.",242
+"Bastian, I.",243
+"Jasmer, R. M.",244
+"Cuthbert, S. S.",245
+"Antonio Paz, E.",246
+"Daley, C. L.",247
+"Lim, T. K.",248
+"Cherian, J.",249
+"Poh, K. L.",250
+"Leong, T. Y.",251
+"Lowin, A.",252
+"Slater, J.",253
+"Hall, J.",254
+"Alperstein, G.",255
+"Macintyre, C. R.",256
+"Plant, A. J.",257
+"Hendrie, D.",258
+"Muller, J.",259
+"Kretzschmar, M.",260
+"Dietz, K.",261
+"Rios, M.",262
+"Garcia, J. M.",263
+"Sanchez, J. A.",264
+"Perez, D.",265
+"Tanaka, M. M.",266
+"Salamon, H.",267
+"Feldman, M. W.",268
+"Taylor, Z.",269
+"Bishai, D. M.",270
+"Mercer, D.",271
+"Borgdorff, M. W.",272
+"de Haas, P. E.",273
+"van Soolingen, D.",274
+"Krumplitsch, S. M.",275
+"Espinal, M. A.",276
+"Huang, W.",277
+"Jones, T. F.",278
+"Schaffner, W.",279
+"Ko, G.",280
+"Burge, H. A.",281
+"Thompson, K. M.",282
+"Perlman, D. C.",283
+"Gourevitch, M. N.",284
+"Trinh, C.",285
+"Salomon, N.",286
+"Horn, L.",287
+"Des Jarlais, D. C.",288
+"Rahman, M.",289
+"Sekimoto, M.",290
+"Takamatsu, I.",291
+"Hira, K.",292
+"Shimbo, T.",293
+"Toyoshima, K.",294
+"Fukui, T.",295
+"Shilova, M. V.",296
+"Nagelkerke, N.",297
+"van Embden, J. D.",298
+"Wigginton, J. E.",299
+"Wilton, P.",300
+"Smith, R. D.",301
+"Coast, J.",302
+"Millar, M.",303
+"Karcher, A.",304
+"Ziv, E.",305
+"de la Pava, E.",306
+"Salguero, B.",307
+"Alzate, A.",308
+"Dye, Christopher",309
+"Williams, Brian G",310
+"Espinal, Marcos A",311
+"Raviglione, Mario C",312
+"Gillespie, S. H.",313
+"Gosling, R. D.",314
+"Charalambous, B. M.",315
+"Murphy, B. M.",316
+"Singer, B. H.",317
+"Anderson, S.",318
+"Murray, M.",319
+"Pitman, R.",320
+"Jarman, B.",321
+"Coker, R.",322
+"RAIMUNDO, SILVIA MARTORANO",323
+"YANG, HYUN MO",324
+"BASSANEZI, RODNEY CARLOS",325
+"FERREIRA, MARIZETE A. C.",326
+"Schinazi, R. B.",327
+"Song, B.",328
+"Wolleswinkel-van, B. J.",329
+"Broekmans, J. F.",330
+"Alland, D.",331
+"Whittam, T. S.",332
+"Murray, M. B.",333
+"Cave, M. D.",334
+"Hazbon, M. H.",335
+"Dix, K.",336
+"Kokoris, M.",337
+"Duesterhoeft, A.",338
+"Eisen, J. A.",339
+"Fraser, C. M.",340
+"Fleischmann, R. D.",341
+"Beggs, C. B.",342
+"Noakes, C. J.",343
+"Sleigh, P. A.",344
+"Fletcher, L. A.",345
+"Siddiqi, K.",346
+"Biot, M.",347
+"Chandramohan, D.",348
+"Porter, J. D. H.",349
+"Brandeau, M. L.",350
+"Zaric, G. S.",351
+"Richter, A.",352
+"Corbett, E. L.",353
+"Watt, C. J.",354
+"Walker, N.",355
+"Maher, D.",356
+"Currie, C. S.",357
+"Cheng, R. C.",358
+"Dowdy, D. W.",359
+"Maters, A.",360
+"Parrish, N.",361
+"Beyrer, C.",362
+"Dorman, S. E.",363
+"Hersh, A. L.",364
+"Tala-Heikkila, M.",365
+"Tala, E.",366
+"Tosteson, A. N.",367
+"Fordham von Reyn, C.",368
+"von Reyn, C. F.",369
+"Martcheva, M.",370
+"Thieme, H. R.",371
+"Engel, Alejandro B.",372
+"Yang, Hyun Mo",373
+"Bassanezi, Rodney Carlos",374
+"Sterling, T. R.",375
+"Lehmann, H. P.",376
+"Frieden, T. R.",377
+"Van Soolingen, D.",378
+"Albert, H.",379
+"Chou, T.",380
+"Clark, Michael",381
+"Vynnycky, Emilia",382
+"Cohen, T.",383
+"Gammack, D.",384
+"Doering, C. R.",385
+"Kirschner, D. E.",386
+"Getoor, L.",387
+"Rhee, J. T.",388
+"Koller, D.",389
+"Small, P.",390
+"Gomes, M. G.",391
+"Franco, A. O.",392
+"Gomes, M. C.",393
+"Medley, G. F.",394
+"Gomes, M. G. M.",395
+"White, L. J.",396
+"Gumbo, T.",397
+"Louie, A.",398
+"Deziel, M. R.",399
+"Parsons, L. M.",400
+"Salfinger, M.",401
+"Drusano, G. L.",402
+"Guwatudde, D.",403
+"Diaz, M.",404
+"King, C.",405
+"Whalen, C. C.",406
+"Marino, S.",407
+"Nishiura, H.",408
+"Patanarapelert, K.",409
+"Tang, I. M.",410
+"Rajalahti, I.",411
+"Ruokonen, E. L.",412
+"Kotomaki, T.",413
+"Sintonen, H.",414
+"Nieminen, M. M.",415
+"Segovia-Juarez, J. L.",416
+"Ganguli, S.",417
+"Atun, R. A.",418
+"Lebcir, R.",419
+"Drobniewski, F.",420
+"Coker, R. J.",421
+"Baltussen, R.",422
+"Floyd, K.",423
+"Diel, R.",424
+"Nienhaus, A.",425
+"Schaberg, T.",426
+"Segovia-Juarez, J.",427
+"Kirschner, D.E.",428
+"Naresh, R.",429
+"Tripathi, A.",430
+"Oxlade, O.",431
+"Barr, R. G.",432
+"Grimard, F.",433
+"Acosta, I.",434
+"Baez, J.",435
+"Ferreira, E.",436
+"Melgen, R. E.",437
+"Morose, W.",438
+"Salgado, A. C.",439
+"Jacquet, V.",440
+"Maloney, S.",441
+"Laserson, K.",442
+"Mendez, A. P.",443
+"Granich, R.",444
+"Chauhan, L. S.",445
+"Dharmshaktu, N. S.",446
+"Bachmann, M. O.",447
+"Berkowitz, F. E.",448
+"Severens, J. L.",449
+"Blumberg, H. M.",450
+"Clark, M.",451
+"Cameron, D. W.",452
+"Walensky, R. P.",453
+"Davies, G. R.",454
+"Khoo, S. H.",455
+"Aarons, L. J.",456
+"Lange, C.",457
+"Moulton, L. H.",458
+"Deziel, M.",459
+"Hughes, Georgina R.",460
+"Currie, Christine S. M.",461
+"Corbett, Elizabeth L.",462
+"Barr, G.",463
+"JOSHI, RAJANI R.",464
+"RAGHUVANSHI, MEENAKSHI",465
+"PANDYA, PRANAV",466
+"Magombedze, G.",467
+"Garira, W.",468
+"Mwenje, E.",469
+"MAGOMBEDZE, GESHAM",470
+"GARIRA, WINSTON",471
+"MWENJE, EDDIE",472
+"McCluskey, C. C.",473
+"Vaca, J.",474
+"Romero, E.",475
+"Graham, B.",476
+"Hernandez, L.",477
+"Tannenbaum, T.",478
+"Lewis, B.",479
+"Marseille, E.",480
+"Grinsdale, J.",481
+"Flood, J. M.",482
+"Royce, S. E.",483
+"Resch, S. C.",484
+"Weinstein, M. C.",485
+"Lloyd-Smith, J. O.",486
+"Getz, W. M.",487
+"Resch, S.",488
+"Sanchez, M. S.",489
+"Shrestha, R. K.",490
+"Mugisha, B.",491
+"Bunnell, R.",492
+"Mermin, J.",493
+"Hitimana-Lukanika, C.",494
+"Odeke, R.",495
+"Madra, P.",496
+"Adatu, F.",497
+"Blandford, J. M.",498
+"Warrender, C.",499
+"Forrest, S.",500
+"Koster, F.",501
+"Wrighton-Smith, P.",502
+"Zellweger, J. P.",503
+"Alavez-Ramirez, J.",504
+"Castellanos, J. R.",505
+"Esteva, L.",506
+"Flores, J. A.",507
+"Fuentes-Allen, J. L.",508
+"Garcia-Ramos, G.",509
+"Gomez, G.",510
+"Lopez-Estrada, J.",511
+"Armbruster, B.",512
+"Lebcir, R. M.",513
+"McKee, M.",514
+"Habicht, J.",515
+"Basu, S.",516
+"Andrews, J. R.",517
+"Poolman, E. M.",518
+"Gandhi, N. R.",519
+"Shah, N. S.",520
+"Moll, A.",521
+"Moodley, P.",522
+"Galvani, A. P.",523
+"Friedland, G. H.",524
+"Blaser, M. J.",525
+"Colijn, C.",526
+"Finklea, B.",527
+"Loddenkemper, R.",528
+"Eilers, P. H. C.",529
+"Flaherman, V. J.",530
+"Gomes, G.",531
+"Rodrigues, P.",532
+"Hilker, F. M.",533
+"Mantilla-Beniers, N. B.",534
+"Muehlen, M.",535
+"Cristina Paulo, A.",536
+"Liu, W.",537
+"Brown, D.",538
+"Ambrose, P. G.",539
+"Bhavnani, S. M.",540
+"Kominski, G. F.",541
+"Varon, S. F.",542
+"Morisky, D. E.",543
+"Malotte, C. K.",544
+"Ebin, V. J.",545
+"Coly, A.",546
+"Chiao, C.",547
+"Pantoja, A.",548
+"Lonnroth, K.",549
+"Reid, A.",550
+"Nathanson, E.",551
+"Pennas, T.",552
+"Fruth, U.",553
+"Cunningham, J.",554
+"Ignatius, H.",555
+"Koek, I.",556
+"Espinal, M.",557
+"Adatu-Engwau, F.",558
+"Sisson, S. A.",559
+"Fan, Y.",560
+"Stevenson, C. R.",561
+"Forouhi, N. G.",562
+"Roglic, G.",563
+"Lauer, J. A.",564
+"Unwin, N.",565
+"Uys, P. W.",566
+"Warren, R. M.",567
+"van Helden, P. D.",568
+"Acuna-Villaorduna, C.",569
+"Vassall, A.",570
+"Henostroza, G.",571
+"Seas, C.",572
+"Guerra, H.",573
+"Vasquez, L.",574
+"Morcillo, N.",575
+"Saravia, J.",576
+"O'Brien, R.",577
+"Perkins, M. D.",578
+"Llanos-Zavalaga, L.",579
+"Gotuzzo, E.",580
+"Bacaer, N.",581
+"Ouifki, R.",582
+"Pretorius, C.",583
+"Wood, R.",584
+"Orenstein, E.",585
+"Bhunu, C. P.",586
+"Mukandavire, Z.",587
+"Zimba, M.",588
+"Bobashev, G.",589
+"Morris, R. J.",590
+"Goedecke, D. M.",591
+"Wright, A.",592
+"Zignol, M.",593
+"Pym, A.",594
+"Affouf, M.",595
+"Maartens, G.",596
+"Lourenco, M. C.",597
+"Cavalcante, S. C.",598
+"Saraceni, V.",599
+"King, B.",600
+"Golub, J. E.",601
+"Bishai, D.",602
+"Durovni, B.",603
+"O'Brien, M. A.",604
+"Dudek, G.",605
+"Grzywna, Z. J.",606
+"Willcox, M. L.",607
+"Escombe, A. R.",608
+"Moore, D. A.",609
+"Gilman, R. H.",610
+"Pan, W.",611
+"Navincopa, M.",612
+"Ticona, E.",613
+"Martinez, C.",614
+"Caviedes, L.",615
+"Sheen, P.",616
+"Gonzalez, A.",617
+"Friedland, J. S.",618
+"Evans, C. A.",619
+"Grant, A.",620
+"Arnold, C.",621
+"Thorne, N.",622
+"Gharbia, S.",623
+"Underwood, A.",624
+"Guerra, R. L.",625
+"Hooper, N. M.",626
+"Baker, J. F.",627
+"Alborz, R.",628
+"Armstrong, D. T.",629
+"Kiehlbauch, J. A.",630
+"Conde, M. B.",631
+"Gumel, A. B.",632
+"Jia, Z. W.",633
+"Tang, G. Y.",634
+"Jin, Z.",635
+"Vlas, S. J.",636
+"Li, X. W.",637
+"Feng, D.",638
+"Fang, L. Q.",639
+"Zhao, W. J.",640
+"Cao, W. C.",641
+"Kowada, A.",642
+"Takahashi, O.",643
+"Ohde, S.",644
+"Tokuda, Y.",645
+"Legrand, J.",646
+"Sanchez, A.",647
+"Le Pont, F.",648
+"Camacho, L.",649
+"Larouze, B.",650
+"Lin, H. H.",651
+"Ezzati, M.",652
+"Marra, F.",653
+"Marra, C. A.",654
+"Sadatsafavi, M.",655
+"Moran-Mendoza, O.",656
+"Cook, V.",657
+"Elwood, R. K.",658
+"Morshed, M.",659
+"Brunham, R. C.",660
+"Millen, S. J.",661
+"Hargrove, J.",662
+"Mueller, D. H.",663
+"Mwenge, L.",664
+"Muyoyeta, M.",665
+"Muvwimi, M. W.",666
+"Tembwe, R.",667
+"McNerney, R.",668
+"Ayles, H. M.",669
+"OKUONGHAE, DANIEL",670
+"AIHIE, VINCENT",671
+"Prathipati, P.",672
+"Ma, N. L.",673
+"Keller, T. H.",674
+"Mansoer, J.",675
+"Scott, A. N.",676
+"Joseph, L.",677
+"Belisle, P.",678
+"Behr, M. A.",679
+"Sharomi, O.",680
+"Podder, C. N.",681
+"Tan, M.",682
+"Tan, M. C.",683
+"Moadebi, S.",684
+"FitzGerald, J. M.",685
+"Leung, C. C.",686
+"Tam, C. M.",687
+"Wallis, R. S.",688
+"Wilkins, J. J.",689
+"Savic, R. M.",690
+"Karlsson, M. O.",691
+"Langdon, G.",692
+"McIlleron, H.",693
+"Pillai, G.",694
+"Simonsson, U. S.",695
+"Zhou, Y.",696
+"Khan, K.",697
+"Wu, J.",698
+"Abu-Raddad, L. J.",699
+"Sabatelli, L.",700
+"Achterberg, J. T.",701
+"Sugimoto, J. D.",702
+"Longini, I. M., Jr.",703
+"Halloran, M. E.",704
+"Ahmad, R. A.",705
+"Mahendradhata, Y.",706
+"Utarini, A.",707
+"de Vlas, S. J.",708
+"Altes, H. K.",709
+"Dijkstra, F.",710
+"Lugner, A.",711
+"Cobelens, F.",712
+"Wallinga, J.",713
+"Medlock, J.",714
+"Sturm, A. W.",715
+"Maru, D.",716
+"Poolman, E.",717
+"Galvani, A.",718
+"Burgos, J. L.",719
+"Kahn, J. G.",720
+"Strathdee, S. A.",721
+"Valencia-Mendoza, A.",722
+"Bautista-Arredondo, S.",723
+"Laniado-Laborin, R.",724
+"Castaneda, R.",725
+"Deiss, R.",726
+"Garfein, R. S.",727
+"Brandes, A.",728
+"Zucker, J.",729
+"Lun, D. S.",730
+"Weiner, B.",731
+"Farhat, M. R.",732
+"Cheng, T. Y.",733
+"Moody, D. B.",734
+"Galagan, J. E.",735
+"de Perio, M. A.",736
+"Tsevat, J.",737
+"Roselle, G. A.",738
+"Kralovic, S. M.",739
+"Eckman, M. H.",740
+"Welte, T.",741
+"Fang, X.",742
+"Wallqvist, A.",743
+"Reifman, J.",744
+"Furuya, H.",745
+"Nagamine, M.",746
+"Watanabe, T.",747
+"Gerberry, D. J.",748
+"Gill, W. P.",749
+"Harik, N. S.",750
+"Whiddon, M. R.",751
+"Liao, R. P.",752
+"Mittler, J. E.",753
+"Sherman, D. R.",754
+"Goutelle, S.",755
+"Bourguignon, L.",756
+"Maire, P. H.",757
+"Van Guilder, M.",758
+"Conte, J. E., Jr.",759
+"Jelliffe, R. W.",760
+"Hoad, K. A.",761
+"van't Hoog, A. H.",762
+"Rosen, D.",763
+"Marston, B.",764
+"Nyabiage, L.",765
+"Holland, D. P.",766
+"Hamilton, C. D.",767
+"Stout, J. E.",768
+"Choudrie, J.",769
+"Luciani, F.",770
+"Jiang, H.",771
+"Francis, A. R.",772
+"Naresh, Ram",773
+"Sharma, Dileep",774
+"Tripathi, Agraj",775
+"Margheri, A.",776
+"Rebelo, C.",777
+"Roeger, L. I.",778
+"Ryan, S. J.",779
+"Hargrove, J. W.",780
+"Warren, R.",781
+"Victor, T. C.",782
+"van Leth, F.",783
+"Kalisvaart, N. A.",784
+"Erkens, C. G.",785
+"Borgdoff, M. W.",786
+"Ahmed el, S. M.",787
+"El-Saka, H. A.",788
+"Bhat, A. G.",789
+"Vashisht, R.",790
+"Chandra, N.",791
+"Bonnet, M.",792
+"Tajahmady, A.",793
+"Hepple, P.",794
+"Ramsay, A.",795
+"Githui, W.",796
+"Gagdnidze, L.",797
+"Guerin, P. J.",798
+"Varaine, F.",799
+"Brooks-Pollock, E.",800
+"Bru, A.",801
+"Cardona, P. J.",802
+"Chandrasekaran, S.",803
+"Price, N. D.",804
+"Chihota, V. N.",805
+"Grant, A. D.",806
+"Fielding, K.",807
+"Ndibongo, B.",808
+"van Zyl, A.",809
+"Muirhead, D.",810
+"Churchyard, G. J.",811
+"Clarelli, F.",812
+"Natalini, R.",813
+"Hedt, B. L.",814
+"Pagano, M.",815
+"Deuffic-Burban, S.",816
+"Atsou, K.",817
+"Viget, N.",818
+"Melliez, H.",819
+"Bouvet, E.",820
+"Yazdanpanah, Y.",821
+"Fallahi-Sichani, M.",822
+"Schaller, M. A.",823
+"Kunkel, S. L.",824
+"Linderman, J. J.",825
+"Deshpande, G. A.",826
+"Liu, L.",827
+"Zhao, X. Q.",828
+"Probandari, A.",829
+"Trisnantoro, L.",830
+"Lindholm, L.",831
+"van der Werf, M. J.",832
+"Kimerling, M.",833
+"Boelaert, M.",834
+"Johns, B.",835
+"Van der Stuyft, P.",836
+"Myers, A.",837
+"Flynn, J. L.",838
+"OKUONGHAE, D.",839
+"AIHIE, V. U.",840
+"Raman, K.",841
+"Uhler, L. M.",842
+"Kumarasamy, N.",843
+"Mayer, K. H.",844
+"Saxena, A.",845
+"Losina, E.",846
+"Muniyandi, M.",847
+"Stoler, A. W.",848
+"Lu, Z.",849
+"Flanigan, T. P.",850
+"Bender, M. A.",851
+"Freedberg, K. A.",852
+"Swaminathan, S.",853
+"investigators, Cepac International",854
+"De Cock, K. M.",855
+"Glaziou, P.",856
+"Sharma, A.",857
+"Johnstone-Robertson, S.",858
+"Uys, P.",859
+"Middelkoop, K.",860
+"Lawn, S. D.",861
+"Bekker, L. G.",862
+A1058736-01A1/PHS HHS/United States,863
+"Wu, P.",864
+"Lau, E. H.",865
+"Cowling, B. J.",866
+"Leung, G. M.",867
+"Yang, H. M.",868
+"Raimundo, S. M.",869
+"Zorzenon dos Santos, R. M.",870
+"Amador, A.",871
+"de Souza, W. V.",872
+"de Albuquerque, M. F.",873
+"Ponce Dawson, S.",874
+"Ruffino-Netto, A.",875
+"Zarate-Blades, C. R.",876
+"Silva, C. L.",877
+"Stuckler, D.",878
+"Bitton, A.",879
+"Glantz, S. A.",880
+"Mushayabasa, S.",881
+"Tchuenche, J. M.",882
+"van den Hof, S.",883
+"Kalisvaart, N.",884
+"Kremer, K.",885
+"Becerra, M. C.",886
+"Goldstein, E.",887
+"Chen, S. C.",888
+"Liao, C. M.",889
+"Li, S. S.",890
+"You, S. H.",891
+"Ganesh, A.",892
+"de Azevedo, W. F., Jr.",893
+"Dodd, P. J.",894
+"White, R. G.",895
+"Steingart, K. R.",896
+"Pai, M.",897
+"Ekins, S.",898
+"Freundlich, J. S.",899
+"Emvudu, Y.",900
+"Demasse, R.",901
+"Djeudeu, D.",902
+"Esfahani, K.",903
+"Aspler, A.",904
+"El-Kebir, M.",905
+"Ghosh, S.",906
+"Prasad, K. V.",907
+"Vishveshwara, S.",908
+"Goodchild, M.",909
+"Sahu, S.",910
+"Wares, F.",911
+"Dewan, P.",912
+"Shukla, R. S.",913
+"Maire, P.",914
+"Guzzetta, G.",915
+"Ajelli, M.",916
+"Yang, Z.",917
+"Merler, S.",918
+"Furlanello, C.",919
+"Izu, A.",920
+"Mitnick, C.",921
+"De Gruttola, V.",922
+"Jia, Z.",923
+"Cheng, S.",924
+"Jia, X.",925
+"Welte, A.",926
+"LI, XUE-ZHI",927
+"BHATTACHARYA, SOUVIK",928
+"YANG, JUN-YUAN",929
+"MARTCHEVA, MAIA",930
+"Cheng, Y. H.",931
+"Lin, Y. J.",932
+"Hsieh, N. H.",933
+"Huang, T. L.",934
+"Chio, C. P.",935
+"Ling, M. P.",936
+"Langley, I.",937
+"Mwenda, R.",938
+"Doulla, B.",939
+"Egwaga, S.",940
+"Millington, K. A.",941
+"Mann, G. H.",942
+"Squire, S. B.",943
+"Linas, B. P.",944
+"Wong, A. Y.",945
+"Horsburgh, C. R., Jr.",946
+"Liu, Junli",947
+"Zhang, Tailei",948
+"Mancuso, J. D.",949
+"Niebuhr, D. W.",950
+"Frick, K. D.",951
+"Keep, L. W.",952
+"Anderson, K. M.",953
+"Mellor, Georgina R. ",954
+"Currie, Christine S. M. ",955
+"Corbett, Elizabeth L. ",956
+"Mills, H. L.",957
+"Okuonghae, D.",958
+"Omosigho, S. E.",959
+"Oxlade, Olivia",960
+"Schwartzman, Kevin",961
+"Benedetti, Andrea",962
+"Pai, Madhukar",963
+"Heymann, Jody",964
+"Menzies, Dick",965
+"Dodd, P.",966
+"Samandari, T.",967
+"Luteijn, M.",968
+"Mosimaneotsile, B.",969
+"Motsamai, O.",970
+"Postma, M.",971
+"Hubben, G.",972
+"Sergeev, R.",973
+"Srivastava, S.",974
+"Pasipanodya, J. G.",975
+"Meek, C.",976
+"Leff, R.",977
+"Tseng, C. L.",978
+"Marais, B. J.",979
+"van Kampen, S.",980
+"Sohn, H.",981
+"Michael, J. S.",982
+"John, K. R.",983
+"den Boon, S.",984
+"Davis, J. L.",985
+"Whitelaw, A.",986
+"Nicol, M. P.",987
+"Gler, M. T.",988
+"Khaliqov, A.",989
+"Zamudio, C.",990
+"Boehme, C. C.",991
+"Whang, S.",992
+"Choi, S.",993
+"Jung, E.",994
+"Aandahl, R. Z.",995
+"Reyes, J. F.",996
+"Abimbola, Taiwo O.",997
+"Marston, Barbara J.",998
+"Date, Anand A.",999
+"Blandford, John M.",1000
+"Sangrujee, Nalinee",1001
+"Wiktor, Stefan Z.",1002
+"Erkens, C.",1003
+"Andrews, Jason R.",1004
+"Lawn, Stephen D.",1005
+"Rusu, Corina",1006
+"Wood, Robin",1007
+"Noubary, Farzad",1008
+"Bender, Melissa A.",1009
+"Horsburgh, C. Robert",1010
+"Losina, Elena",1011
+"Freedberg, Kenneth A.",1012
+"Walensky, Rochelle P.",1013
+"Ankomah, P.",1014
+"Ben-Haim, Y.",1015
+"Dacso, C. C.",1016
+"Zetola, N. M.",1017
+"Breban, R.",1018
+"Cao, Hui",1019
+"Zhou, Yicang",1020
+"Cao, H.",1021
+"Brauer, F.",1022
+"Carvalho, R. V.",1023
+"Kleijn, J.",1024
+"Meijer, A. H.",1025
+"Verbeek, F. J.",1026
+"Chen, M. P.",1027
+"Shang, N.",1028
+"Winston, C. A.",1029
+"Becerra, J. E.",1030
+"Eralp, M. N.",1031
+"Scholtes, S.",1032
+"Martell, G.",1033
+"Winter, R.",1034
+"Exley, A. R.",1035
+"Aguas, R.",1036
+"Lopes, J. S.",1037
+"Nunes, M. C.",1038
+"Struchiner, C. J.",1039
+"Hegde, S. R.",1040
+"Rajasingh, H.",1041
+"Das, C.",1042
+"Mande, S. S.",1043
+"Mande, S. C.",1044
+"Hickson, R. I.",1045
+"Mercer, G. N.",1046
+"Lokuge, K. M.",1047
+"Hill, A. N.",1048
+"Becerra, J.",1049
+"Castro, K. G.",1050
+"Hughes, R.",1051
+"Wonderling, D.",1052
+"Li, B.",1053
+"Higgins, B.",1054
+"Millington, K.",1055
+"Squire, B.",1056
+"Laskin, B. L.",1057
+"Goebel, J.",1058
+"Starke, J. R.",1059
+"Schauer, D. P.",1060
+"Dowdy, D.",1061
+"Mulder, N.",1062
+"Maheswaran, H.",1063
+"Barton, P.",1064
+"Malvankar-Mehta, M. S.",1065
+"Xie, B.",1066
+"Manabe, Y. C.",1067
+"Hermans, S. M.",1068
+"Lamorde, M.",1069
+"Castelnuovo, B.",1070
+"Mullins, C. D.",1071
+"Kuznik, A.",1072
+"Mandalakas, A. M.",1073
+"Hesseling, A. C.",1074
+"Gie, R. P.",1075
+"Schaaf, H. S.",1076
+"Sinanovic, E.",1077
+"Menzies, N. A.",1078
+"Meyer-Rath, G.",1079
+"Schnippel, K.",1080
+"Long, L.",1081
+"Macleod, W.",1082
+"Sanne, I.",1083
+"Stevens, W.",1084
+"Pillay, S.",1085
+"Pillay, Y.",1086
+"Rosen, S.",1087
+"Oei, W.",1088
+"Pankhurst, L. J.",1089
+"Anaraki, S.",1090
+"Lai, K. M.",1091
+"Pho, M. T.",1092
+"Ponnuraja, C.",1093
+"Scott, C. A.",1094
+"Rafei, A.",1095
+"Pasha, E.",1096
+"Jamshidi Orak, R.",1097
+"Ramkissoon, S.",1098
+"Mwambi, H. G.",1099
+"Matthews, A. P.",1100
+"Sahota, T.",1101
+"Della Pasqua, O.",1102
+"van Schalkwyk, C.",1103
+"Cule, M.",1104
+"van Helden, P.",1105
+"van der Spuy, G.",1106
+"Viljoen, S.",1107
+"Pienaar, E.",1108
+"Viljoen, H. J.",1109
+"Winetsky, D. E.",1110
+"Negoescu, D. M.",1111
+"DeMarchis, E. H.",1112
+"Almukhamedova, O.",1113
+"Dooronbekova, A.",1114
+"Pulatov, D.",1115
+"Vezhnina, N.",1116
+"Goldhaber-Fiebert, J. D.",1117
+"Agliari, E.",1118
+"Asti, L.",1119
+"Barra, A.",1120
+"Scrivo, R.",1121
+"Valesini, G.",1122
+"Morrow, C.",1123
+"Chigutsa, E.",1124
+"Patel, K.",1125
+"Denti, P.",1126
+"Visser, M.",1127
+"Kirkpatrick, C. M.",1128
+"Hohmann, N.",1129
+"Voss-Bohme, A.",1130
+"Lyons, M. A.",1131
+"Reisfeld, B.",1132
+"Yang, R. S.",1133
+"Lenaerts, A. J.",1134
+"Stevens, W. S.",1135
+"Sun, D.",1136
+"Dorman, S.",1137
+"Shah, M.",1138
+"Moodley, V. M.",1139
