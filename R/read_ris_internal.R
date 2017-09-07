@@ -1,5 +1,15 @@
-## Source ris package
 
+#' @title An Internal Function to Read in .RIS Files
+#' @description A function to read in generic .RIS  files, this function was originally
+#' part of the [ris r package](https://github.com/cran/ris) written by Stephanie Kovalchik.
+#' @param file A character string of the path to the .ris file to read in.
+#' @param ... Additional arguements to pass to readLines.
+#'
+#' @return A nested list for each reference in the .ris file.
+#' @export
+#'
+#' @examples
+#'
 read_ris_internal <- function(file, ...){
 
   ###DEPENDENT FUNCTIONS

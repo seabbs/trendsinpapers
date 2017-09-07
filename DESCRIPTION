@@ -22,5 +22,10 @@ Imports: tidyverse,
     plotly,
     visdat,
     zeallot,
-    lubridate
+    lubridate,
+    dplyr,
+    magrittr,
+    purrr,
+    tibble,
+    tidyr
 Remotes: nteetor/zeallot

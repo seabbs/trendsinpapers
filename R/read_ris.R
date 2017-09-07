@@ -1,4 +1,21 @@
 
+#' @title A Function to Read in a .ris File of Academic Papers
+#'
+#' @description This function reads in a .ris file of academic papers and then
+#'              munges the output into 3 tidy interlinked data frames.
+#' @inherit read_ris_internal
+#'
+#' @return 3 tidy data frames: papers, authors, authors_on_papers. Each paper has a unique id (paper_id),
+#'         as does each paper (paper_id). Authors and papers are linked by authors_on_papers which links
+#'         paper_id, and author_id.
+#' @export
+#' @import magrittr
+#' @importFrom purrr transpose map
+#' @importFrom dplyr rename mutate select full_join ungroup rowwise mutate_all mutate_at
+#' @importFrom tibble as_data_frame tibble
+#' @importFrom tidyr unnest
+#' @examples
+#'
 read_ris <- function(file, ...) {
 
   ## Read in res file in messy format
@@ -28,7 +45,8 @@ read_ris <- function(file, ...) {
 
   ##Join authors to assign correct author id to authors on papers
   authors_on_papers <- authors_on_papers %>%
-    full_join(authors, by = "author")
+    full_join(authors, by = "author") %>%
+    select(-author)
 
   ## Drop authors from paper
   messy_papers <- messy_papers %>%
@@ -79,5 +97,8 @@ read_ris <- function(file, ...) {
     mutate_at(.vars = vars(ris.type, type, paper_id, title, journal, volume, pages, abstract),
               .funs = funs(unlist(., recursive = FALSE)))
 
-  return(messy_papers)
+  out <- list(papers, authors, authors_on_papers)
+  names(out) <- c("papers", "authors", "authors_on_papers")
+
+  return(out)
   }
